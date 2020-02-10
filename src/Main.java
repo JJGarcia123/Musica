@@ -552,8 +552,11 @@ public class Main {
 				break;
 			case 24:
 				System.out.println("Adiós");
+				break;
+			default:
+				System.out.println("Error");
+				break;
 			}
-
 		} while (opc != 24);
 
 	}
