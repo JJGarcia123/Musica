@@ -551,7 +551,7 @@ public class Main {
 				}
 				break;
 			case 24:
-				System.out.println("Adiós");
+				System.out.println("Hasta luego, vuelve pronto te quiero!");
 				break;
 			default:
 				System.out.println("Error");
